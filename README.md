@@ -1,4 +1,4 @@
-Develop
+Development
 # SortingMarks
 
 Students struggle to see their marks because
